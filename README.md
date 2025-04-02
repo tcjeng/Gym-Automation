@@ -34,7 +34,7 @@ Expand the Scope: Expanding the scope to other facilities on campus can help man
 Apply predictive analysis: Use machine learning to analyze historical trends and predict future peak usage times to allow better planning and resource allocation
 Get it published: Providing students with real-time access to this data can help students plan their time more efficiently 
 
-## Applications
+#### Applications
 Retail & Shopping Malls: Retailers can monitor foot traffic to optimize store layouts, staffing, and apply marketing strategies 
 Office Spaces: Companies can track meeting rooms and public area usage to improve efficiency in onsite work settings
 Public Transportation: Cities can track the usage of transportation to adjust transit schedule to fit the demands
